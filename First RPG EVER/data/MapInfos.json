@@ -2,5 +2,5 @@
 null,
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":481},
 {"id":2,"expanded":true,"name":"Town 1","order":2,"parentId":0,"scrollX":811,"scrollY":473},
-{"id":3,"expanded":false,"name":"Town 1 Room 1","order":3,"parentId":2,"scrollX":534,"scrollY":305}
+{"id":3,"expanded":false,"name":"Town 1 Room 1","order":3,"parentId":2,"scrollX":819,"scrollY":481}
 ]
